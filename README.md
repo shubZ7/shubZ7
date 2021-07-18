@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shubZ7 
 - 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... instagram: shubz__10
 
 <!---
